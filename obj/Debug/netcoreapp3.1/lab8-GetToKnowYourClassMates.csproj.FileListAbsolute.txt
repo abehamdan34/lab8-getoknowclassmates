@@ -1,0 +1,11 @@
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.exe
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.deps.json
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.runtimeconfig.json
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.runtimeconfig.dev.json
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.dll
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\bin\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.pdb
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.csprojAssemblyReference.cache
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.AssemblyInfoInputs.cache
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.AssemblyInfo.cs
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.dll
+C:\Users\abeis\source\repos\lab8-GetToKnowYourClassMates\obj\Debug\netcoreapp3.1\lab8-GetToKnowYourClassMates.pdb
